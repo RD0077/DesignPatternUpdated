@@ -13,5 +13,6 @@
   <modules>
   	<module>Singleton</module>
   	<module>Factory</module>
+  	<module>Builder</module>
   </modules>
 </project>
