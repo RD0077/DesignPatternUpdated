@@ -9,5 +9,7 @@
   <modules>
 
   <module>Creational</module>
+  <module>Structural</module>
+  <module>Behavioural</module>
   </modules>
 </project>
