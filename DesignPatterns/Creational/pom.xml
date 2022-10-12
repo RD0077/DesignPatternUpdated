@@ -12,5 +12,6 @@
   <description>Creational</description>
   <modules>
   	<module>Singleton</module>
+  	<module>Factory</module>
   </modules>
 </project>
