@@ -1,16 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>com.dp</groupId>
-    <artifactId>DesignPatterns</artifactId>
+    <groupId>com.dp.structural</groupId>
+    <artifactId>Structural</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.dp.structural</groupId>
-  <artifactId>Structural</artifactId>
-  <packaging>pom</packaging>
-  <name>Structural</name>
-  <description>Structural</description>
-  <modules>
-  	<module>Adapter</module>
-  </modules>
+  <groupId>com.dp.structural.adapter</groupId>
+  <artifactId>Adapter</artifactId>
+  <name>Adapter</name>
+  <description>Adapter</description>
 </project>
