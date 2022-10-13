@@ -14,5 +14,6 @@
   	<module>Singleton</module>
   	<module>Factory</module>
   	<module>Builder</module>
+  	<module>Prototype</module>
   </modules>
 </project>
